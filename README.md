@@ -8,7 +8,5 @@ to hold the five most recent times in its memory. Our stopwatch keeps track of t
 H:MM:SS:T format where T is equal to a tenth of a second. The stopwatch makes use of 
 switches to start and stop the timer and a pushbutton to reset the board. Switches are also used to 
 access the five most recent times from memory. The stopwatch performs all functions as 
-intended. Moving forward the stopwatch could be improved by implementing flip flops and 
-using finite state machines in the circuit, and using pushbuttons instead of switches for the start, 
-stop, and indexing functions.
+intended. 
 
